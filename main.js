@@ -1,3 +1,3 @@
 {
-    "just_expression": "There\'s nothing here, yet!";
+    "just_expression": "There\'s nothing here, yet!"
 }
