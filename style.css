@@ -1,0 +1,30 @@
+* {
+box-sizing : border-box;
+}
+body {
+background : papayawhip;
+margin-bottom : 50px;
+}
+.main {
+background : peru;
+height : 150px;
+width : 100%;
+}
+.footer {
+background : salmon;
+height : 50px;
+position : absolute;
+width : 99%;
+bottom : 0;
+}
+.span {
+padding : 18px;
+font-family : 'Modak', cursive;
+font-size : 20px;
+height : 100px;
+margin-left : 50%;
+}
+html {
+min-height : 100%;
+position : relative;
+}
